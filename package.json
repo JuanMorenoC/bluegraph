@@ -1,0 +1,28 @@
+{
+  "name": "bluegraph",
+  "version": "1.0.0",
+  "description": "analisys graph of files xlsx or csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanMorenoC/bluegraph.git"
+  },
+  "keywords": [
+    "project",
+    "backend",
+    "and",
+    "graph"
+  ],
+  "author": "Juan David Moreno Cifuentes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanMorenoC/bluegraph/issues"
+  },
+  "homepage": "https://github.com/JuanMorenoC/bluegraph#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
